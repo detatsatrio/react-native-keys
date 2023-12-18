@@ -1,6 +1,6 @@
 {
   "name": "@detatsatrio/react-native-keys",
-  "version": "0.7.12",
+  "version": "0.7.13",
   "description": "🔐 Make protected .ENVs variables",
   "main": "./src/index.ts",
   "source": "src/index",
